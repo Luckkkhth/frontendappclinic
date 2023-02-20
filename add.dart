@@ -15,10 +15,10 @@ class AddClinicuser {
 }
 
 class Config {
-  //static var url = "https://shy-gray-pea-coat.cyclic.app";
-  //static var urlUploadImage = "https://shy-gray-pea-coat.cyclic.app";
-  static var url = "http://192.168.43.117:3333";
-  static var urlUploadImage = "http://192.168.43.117:5000";
+  static var url = "https://shy-gray-pea-coat.cyclic.app";
+  static var urlUploadImage = "https://shy-gray-pea-coat.cyclic.app";
+  //static var url = "http://192.168.43.117:3333";
+  //static var urlUploadImage = "http://192.168.43.117:5000";
 }
 
 class User {
